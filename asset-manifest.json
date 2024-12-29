@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.5aa20dfe.css",
-    "main.js": "/test/static/js/main.93b5daf3.js",
+    "main.css": "/test/static/css/main.ba66a295.css",
+    "main.js": "/test/static/js/main.8ee6035e.js",
     "static/media/LogoEpeHorizontalColor.png": "/test/static/media/LogoEpeHorizontalColor.62e6f32e58d22c1bf36b.png",
     "index.html": "/test/index.html",
-    "main.5aa20dfe.css.map": "/test/static/css/main.5aa20dfe.css.map",
-    "main.93b5daf3.js.map": "/test/static/js/main.93b5daf3.js.map"
+    "main.ba66a295.css.map": "/test/static/css/main.ba66a295.css.map",
+    "main.8ee6035e.js.map": "/test/static/js/main.8ee6035e.js.map"
   },
   "entrypoints": [
-    "static/css/main.5aa20dfe.css",
-    "static/js/main.93b5daf3.js"
+    "static/css/main.ba66a295.css",
+    "static/js/main.8ee6035e.js"
   ]
 }
